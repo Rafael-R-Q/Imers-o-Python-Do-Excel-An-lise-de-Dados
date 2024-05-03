@@ -35,3 +35,14 @@ Na Aula 03, continuei minha jornada de análise de dados, focando na manipulaç�
 
 O Notbook desencolvido na aula 03 pode ser acessado clicando [aqui](Aula03.ipynb)
 
+## Aula 04: Análises Avançadas de Ações e Gráficos de Velas
+
+Na Aula 04, avancei em minha jornada de análise de dados, concentrando-me na construção de gráficos de velas com Matplotlib e na realização de ações mais avançadas, como a criação de gráficos interativos com Plotly. Durante esta aula, eu:
+
+- Criei gráficos de velas, uma ferramenta importante na análise técnica de dados financeiros, utilizando a biblioteca Matplotlib para representar visualmente padrões de preços em séries temporais.
+- Aprendi a fazer gráficos interativos com Plotly, uma biblioteca poderosa que permite a criação de visualizações dinâmicas e personalizáveis.
+
+  
+
+O Notbook desencolvido na aula 04 pode ser acessado clicando [aqui](Aula_04.ipynb)
+
