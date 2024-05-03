@@ -33,7 +33,7 @@ Na Aula 03, continuei minha jornada de análise de dados, focando na manipulaç�
 - Construí gráficos interativos com a biblioteca Plotly Express, permitindo uma visualização mais dinâmica e informativa dos dados.
 - Utilizei o Chat GPT durante o código para esclarecer dúvidas e obter insights adicionais sobre a manipulação de dados e a criação de gráficos.
 
-O Notbook desencolvido na aula 03 pode ser acessado clicando [aqui](Aula03.ipynb)
+O Notbook desenvolvido na aula 03 pode ser acessado clicando [aqui](Aula03.ipynb)
 
 ## Aula 04: Análises Avançadas de Ações e Gráficos de Velas
 
@@ -41,8 +41,21 @@ Na Aula 04, avancei em minha jornada de análise de dados, concentrando-me na co
 
 - Criei gráficos de velas, uma ferramenta importante na análise técnica de dados financeiros, utilizando a biblioteca Matplotlib para representar visualmente padrões de preços em séries temporais.
 - Aprendi a fazer gráficos interativos com Plotly, uma biblioteca poderosa que permite a criação de visualizações dinâmicas e personalizáveis.
+<p align="center">
+  <img src="candlesticks.png">
+</p>
 
-  
+O Notbook desenvolvido na aula 04 pode ser acessado clicando [aqui](Aula_04.ipynb)
 
-O Notbook desencolvido na aula 04 pode ser acessado clicando [aqui](Aula_04.ipynb)
+## Aula 05: Previsão de Séries Temporais de Ações e Carreiras no Mercado de Dados
+
+Na última aula, introduzimos o Machine Learning com Prophet, além de revisar todas as ferramentas já aprendidas durante a Imersão em Python: do Excel à Análise de Dados. Durante esta aula, eu:
+- Tive uma introdução ao Machine Learning com Prophet, uma biblioteca de previsão de séries temporais desenvolvida pelo Facebook.
+- Revisitei e reforcei o conhecimento das ferramentas aprendidas durante a Imersão, consolidando as habilidades em Python, Pandas, Plotly, Matplotlib, entre outras.
+<p align="center">
+  <img src="Previsão de preçoes de fechamento x dados reais.png">
+</p>
+
+O Notbook desenvolvido na aula 05 pode ser acessado clicando [aqui](Aula_05.ipynb)
+
 
