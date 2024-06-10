@@ -4,7 +4,7 @@ Este repositório contém notebooks e arquivos do Google Sheets desenvolvidos du
 
 
 ## Aula 01: Explorando Variações na Bolsa de Valores com Google Sheets e Chat GPT
-Nesta primeira aula, foi explorados os dados de variações na Bolsa de Valores brasileira (B3), utilizando o Google Sheets como ferramenta principal. Durante a aula, os seguintes tópicos foram abordados:
+Nesta primeira aula, foram explorados os dados de variações na Bolsa de Valores brasileira (B3), utilizando o Google Sheets como ferramenta principal. Durante a aula, os seguintes tópicos foram abordados:
 
 - Análise de variações na B3, examinando dados históricos e tendências de preços de ações.
 - Aplicação de análises exploratórias pelo Google Sheets com diversas fórmulas como VLOOKUP e SUMIF para análise de dados financeiros.
