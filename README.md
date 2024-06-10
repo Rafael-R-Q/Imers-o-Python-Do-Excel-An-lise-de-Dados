@@ -58,4 +58,4 @@ Na última aula, introduzimos o Machine Learning com Prophet, além de revisar t
 
 O Notbook desenvolvido na aula 05 pode ser acessado clicando [aqui](Aula_05.ipynb)
 
-
+- Para acessar o certificado do curso [clique aqui](https://drive.google.com/file/d/1ISKBlgJY6W-mArGGo57utnyYARa-MJjh/view?usp=sharing).
